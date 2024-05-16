@@ -1,1 +1,3 @@
-Please open the other repository
+Please open the other repository, 
+myspbapp-Intelli
+
